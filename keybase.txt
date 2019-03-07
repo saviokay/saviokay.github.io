@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/saviokay
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://saviokay.com
+  * I am saviokay (https://keybase.io/saviokay) on keybase.
+  * I have a public key ASBgjA3SL_14vy5pL0mJT6lkUBBWDi7R3P7rt6rkLdCgZAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120608c0dd22ffd78bf2e692f49894fa9645010560e2ed1dcfeebb7aae42dd0a0640a",
+      "host": "keybase.io",
+      "kid": "0120608c0dd22ffd78bf2e692f49894fa9645010560e2ed1dcfeebb7aae42dd0a0640a",
+      "uid": "3ff27c30f975ad3602ab014a6a161119",
+      "username": "saviokay"
+    },
+    "merkle_root": {
+      "ctime": 1551916558,
+      "hash": "f20bda92efaf4ab99b8d26a2c5ee948f9eed22205a0193b4219ac62be2a2aa6d112ca6b9bfc04142b47a69018dca2e02cb8c3a3078622b9d97e1d1d663acc53d",
+      "hash_meta": "d982b18496255abec16ff95572b0723eb636e7002bf45bfef984a40db642ba3e",
+      "seqno": 4891206
+    },
+    "service": {
+      "entropy": "1UCu3A5fWn0o1Dg02BbrlRRF",
+      "hostname": "saviokay.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.0.0"
+  },
+  "ctime": 1551916628,
+  "expire_in": 504576000,
+  "prev": "48cf37aaf3ef6ca77636ef49e24c6e2c6811d1ebe17c4eafc3ac1c9930e1637f",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgYIwN0i/9eL8uaS9JiU+pZFAQVg4u0dz+67eq5C3QoGQKp3BheWxvYWTESpcCBcQgSM83qvPvbKd2Nu9J4kxuLGgR0evhfE6vw6wcmTDhY3/EIAOOtLKqOmJABpTooa9ZpXo1GNgicrxebYiwFBhiR3GUAgHCo3NpZ8RAb9zA641MdV/NEfNpcOeVw6X1CwiCHvGnNWBndviVxUTUoJNxHA0z6N16EvAd+fWzlXet2NS++G+4TC0xvHr3DKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIG4jfiJJ2z8RQAdoVGDn/qBbHeS6BughA9HLvDxnFzEUo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/saviokay
+
+==================================================================
